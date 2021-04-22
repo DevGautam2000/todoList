@@ -63,6 +63,9 @@ export default function App() {
     </View>
   );
 }
+{
+  /* <img src="https://raw.github.com/DevGautam2000/todoList/main/assets/todoAppShot.jpg"  alt="Preview" width=400><br><br></br> */
+}
 
 const styles = StyleSheet.create({
   container: {
